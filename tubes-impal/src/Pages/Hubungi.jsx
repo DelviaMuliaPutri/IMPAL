@@ -37,7 +37,7 @@ const Hubungi = () => {
           <div className="relative">
             <button
               onClick={toggleAsramaDropdown}
-              className="text-[#1E1E1E] hover:text-[#B41515] flex items-center"
+              className="text-[#B41515] hover:text-[#B41515] flex items-center"
             >
               Asrama
               <span className="ml-2">▼</span>
